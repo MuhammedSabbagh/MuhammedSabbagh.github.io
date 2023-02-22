@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Live, Love, Fight!
 
 profile:
   align: right
@@ -14,8 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Computer Engineer Student seeking knowledge on wide area of computer and electronic fields, having extended knowledge on UNIX-like Operatinf systems such as (Linux and *BSD). 
-
+Computer Engineer Student seeking knowledge on wide area of computer and electronic fields, having extended knowledge on UNIX-like Operating systems such as (Linux and *BSD).
 
 while i'm not on all social media platforms you can find me on telegram and Discord
 

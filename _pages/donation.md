@@ -11,7 +11,8 @@ Computer engineering is an ever-evolving field, and it requires a lot of hard wo
 
 and since i currently have no job this blog is my only personal income so it means alot to me if you help even a small amount!
 
-i'm planning to enable a buy me a coffee account or ko-fi but right now all i have is donation using digital currency.
+hey now i have donations and rewards using ko-fi!
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1IWSJQ)
 
 right now i accept:
 

@@ -30,3 +30,7 @@ Programming is a long journey and just like all other professions, it requires t
 
 Finally please understand this; all the professions are equal, none are better nor are worse
 everyone is excel in thier own way, some are very awesome in cooking, others?, Artists,Enginners,Doctors,Lawyers and judges and also many others like sewers cleaning, Street cleaners, These Wonderful people are the reason why our society is clean, built, stable, and thriving; Everyone is Important in there own place with there own profession so we should respect everyone for better tommorow
+
+peace and have a great day!
+
+support my work on Ko-fi: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1IWSJQ)

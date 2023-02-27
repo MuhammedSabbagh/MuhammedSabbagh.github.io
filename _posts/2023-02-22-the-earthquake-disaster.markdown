@@ -22,4 +22,6 @@ also sorry if this was the first blog to write after rehauling but had nothing i
 
 fear not tho!, because i have some good plans for this blog and a roadmap will be published soon!
 
-peace.
+peace and have a great day!
+
+Support my work on Ko-fi: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S1IWSJQ)

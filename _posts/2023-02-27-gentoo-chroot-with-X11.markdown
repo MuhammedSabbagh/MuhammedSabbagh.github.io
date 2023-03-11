@@ -4,18 +4,18 @@ title:  "making a gentoo chroot with X11"
 date:   2023-02-22 14:25:27 +0300
 tags: code images
 description: Because the pride of being an arch user isn't enough you put a gentoo neofetch next to it
-categories: linux 
+categorize: linux 
 ---
 
 # where did it all start?
 
-By accident in a dark room setting in front of the computer and wondering "I have spare of time why don't i make a gentoo?"
+By accident in a dark room setting in front of the computer and wondering "I have spare of time why don't I make a gentoo?"
 
-ok this was horrible introduction to the article but to be fair we might sometimes need tools,custom built software, or for the heck of it, giggles with our online friends on seeing 2 different neofetch setting next to each other, no matter the concern of it; i will show you how to do it
+ok this was horrible introduction to the article but to be fair we might sometimes need tools,custom-built software, or for the heck of it, giggles with our online friends on seeing 2 different neofetch setting next to each other, no matter the concern of it; I will show you how to do it
 
-## acquire the ingrediants
+## acquire the ingredients
 
-first you need to download your prefered stage3 tarball from the website, download it according to Gentoo's handbook then:
+first you need to download your preferred stage3 tarball from the website, download it according to Gentoo's handbook then:
 
 - create a directory with your distro's name like 'gentoo-fs' in (/)
 - move the tarball inside this directory
@@ -25,9 +25,9 @@ first you need to download your prefered stage3 tarball from the website, downlo
  ~# tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner
 ```
 
-- once you are done with this you are almost ready to go, well almost; you will have to go through the entire handbook except the following parts (Kernel, network pre-setting, partitioning) these are unnecceessary as they are already included in the stock kernel for your distro *probably*
+- once you are done with this you are almost ready to go, well almost; you will have to go through the entire handbook except the following parts (Kernel, network pre-setting, partitioning) these are unnecessary as they are already included in the stock kernel for your distro *probably*
 
-- all the things you will do in this chroot won't require reboot and if you wanted too you can simply reboot and resume your work on it by mounting proc dev etc..
+- all the things you will do in this chroot won't require reboot and if you wanted too you can simply reboot and resume your work on it by mounting proc dev etc…
 
 - to finalize this is the script to automate logging into the chroot, make sure you made users to keep working on the chroot clean
 
@@ -58,7 +58,7 @@ change the name of the folder above depending on the folder you created and have
 
 ## one more thing
 
-i will work on the X server soon in this blog so stay tuned!
+I will work on the X server soon in this blog so stay tuned!
 
 peace and have a great day!
 

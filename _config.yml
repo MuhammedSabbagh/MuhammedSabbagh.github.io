@@ -57,7 +57,7 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
@@ -93,7 +93,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+youtube_id: SpeakingMath # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: Muhammed Sabbagh#0332 # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
@@ -165,9 +165,9 @@ kramdown:
   syntax_highlighter_opts:
     css_class: 'highlight'
     span:
-      line_numbers: true
+      line_numbers: false
     block:
-      line_numbers: true
+      line_numbers: false
       start_line: 1
 
 # Includes & excludes

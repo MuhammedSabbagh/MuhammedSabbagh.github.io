@@ -13,6 +13,18 @@
 - title: Experiences & Employments
   type: time_table
   contents:
+    - title: Linux
+      institution: Linux User
+      year: 2015-present
+      description:
+    
+    - title: Freelance
+      institution: firmware development
+      year: 2020 - 2023
+      description:
+        - LED matrix street screenthat shows text written using either a USB connected terminal or Bluetooth received one
+        - Sun tracking firmware for solar panels using astrological calculations
+
     - title: IT support
       institution: Psychology center
       year: 2018 - 2019
@@ -20,21 +32,9 @@
         - Fixing Computers
         - Maintaing their network.
 
-    - title: freelance
-      institution: firmware development
-      year: 2020 - 2023
-      description:
-        - LED matrix street screenthat shows text written using either a USB connected terminal or Bluetooth received one
-        - Sun tracking firmware for solar panels using astrological calculations
-
     - title: System Admin
       institution: Repurposing an old unused server and setting it up to process 32 IP cameras across a factory.
       year: 2017
-
-    - title: Linux
-      institution: Linux User
-      year: 2015-present
-      description:
 
 - title: Courses
   type: time_table

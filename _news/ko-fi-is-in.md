@@ -1,10 +1,10 @@
 ---
 layout: post
-date: 2022-02-27 16:59:00+0300
+date: 2023-02-27 16:59:00+0300
 inline: false
 ---
 
-# Good news! the dacia sand..
+# Good news! the dacia sand
 
 after long period of problems regarding payments and waits my ko-fi is now online and accepts your generous donations!
 

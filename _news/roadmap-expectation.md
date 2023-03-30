@@ -1,7 +1,7 @@
 ---
 layout: post
 title: details about the blog and what can you expect in later days
-date: 2022-02-22 14:30:00 +0300
+date: 2023-02-22 14:30:00 +0300
 inline: false
 ---
 ## The Roadmap
